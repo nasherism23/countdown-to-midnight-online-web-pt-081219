@@ -1,7 +1,8 @@
 #write your code here
 
 def countdown
-  while levitation_force < 10 
-	puts "Wingardium Leviosa" 
-	levitation_force += 1 
+  x = 10
+while x > 0
+  puts "#{x} is less than 10"
+  x += 1
 end
